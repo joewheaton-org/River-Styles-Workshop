@@ -1,6 +1,5 @@
 ---
 title: River Styles Espresso Workshop
-layout: home
 ---
 
 # Navigation
