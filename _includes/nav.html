@@ -1,0 +1,10 @@
+<div class="top-bar">
+  <div class="top-bar-left">
+  	<a href="{{site.url}}" class="logo">
+  		<img src="{{site.siteurl}}/images/theme/logo.png"/>
+  	</a>
+  </div>
+  <div class="top-bar-right horizontal-nav">
+    {% capture my-nav %}{% include navigation.md %}{% endcapture %}{{ my-nav | markdownify }}
+  </div>
+</div>

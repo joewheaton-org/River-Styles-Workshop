@@ -1,0 +1,23 @@
+{
+  "name": "web_anabranch",
+  "version": "1.0.0",
+  "description": "This is just a quick test of the Gitbook Engine",
+  "main": "index.js",
+  "dependencies": {
+    "foundation-sites": "^6.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NorthArrowResearch/web_anabranch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NorthArrowResearch/web_anabranch/issues"
+  },
+  "homepage": "https://github.com/NorthArrowResearch/web_anabranch#readme"
+}
