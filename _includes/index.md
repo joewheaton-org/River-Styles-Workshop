@@ -1,40 +1,43 @@
 ---
-title: Using Beaver to Help Restore Rivers and Streams
+title: River Styles Espresso Workshop
 layout: home
 ---
 
-Welcome to the Cheap and Cheerful Stream Restoration website. This website provides resources for those interested in learning about how to restore streams, rivers, riparian areas and floodplains by designing projects that  mimic and encourage the dam building activities of beaver.
-It is designed with the river restoration practitioner in mind, therefore it focuses on the questions, assessments and design considerations that need to be addressed when undertaking any restoration project.
+#### Enrolled Grad Students & Participants:
+This website is the primary hub of resources for the River Styles USU Workshop. By the end of the workshops, all workshop materials will be posted here for you to refer to after the course.
 
-The practices outlined throughout this website are the based on our current understanding of the physical and biological processes that shape river and floodplain ecosystems. Therefore, while this website is not intended to deliver a comprehensive review of river systems we have included references so that those seeking more detailed information can travel as deep into the beaver pond as they would like to. For those who are looking for a recipe, or blueprint for an *approach* to restoration, the information here should provide an adequate starting point.
+#### Prospective Non-Student Participants:
+Total participation is capped at 25 participants to ensure quality instruction. No sit-ins will be allowed and all participants will need to register.
 
-## Format of the Site – How to use it ###
-Unlike a design manual that has a beginning and an end, this website is designed with the knowledge that restoration practitioners, land managers and others interested in restoring streams come from diverse backgrounds that include: hydrology, fluvial geomorphology, ecology, fisheries, rangeland management, environmental policy, engineering etc. In order for users to more efficiently locate the information most relevant to them we have created individual pages to address different facets of cheap and cheerful restoration.<!-- are we sticking with this?--> For users with strong backgrounds in hydrology and fluvial geomorphology the [Background information](text\2_background_information.md) will be review. For those with a less extensive background it will provide context necessary to understand the practices outlined throughout this website. You will not be an expert after reading the information provided here. You will however, know just enough to be dangerous. Our goal is to help you get started on cheap and cheerful restoration projects, and more importantly help you learn what questions to ask, when to ask them, and when to ask someone else for help.
-<!--In addition to text and photos, this website has video tutorials from field visits to help walk through many of the concepts.--> The science and practice of river restoration ultimately takes place in the field, and no amount of website reading can substitute for field experience.
+#### Prospective Grad Students:
+Total participation is capped at 25 participants to ensure quality instruction, but graduate students will be given first priority. All graduate students will need to [register on Banner](http://riverstyles.joewheaton.org/syllabus/how-to-register)  (CRN: 45776).
 
-<!--Lastly, there are powerpoint presentations and .pdfs available for download. Much of the information contained in the powerpoint presentations is similar to the information contained on the site itself. The goal of posting additional presentations is that project managers may have access to presentation materials (text, images and figures) that can be used in public or private presentations to potential stakeholders. <!-- is this really our goal?-->
+#### ICRRR 3-Day Workshop Organization
 
-## Final Note
-Our goal in creating this website is to promote an approach to river restoration that we believe has the potential to improve the health of thousands of miles of stream, due to its low cost, and technically undemanding practices. We do not think the approaches outlined here will work everywhere, and large portions of this site are dedicated to helping identify when and where cheap and cheerful projects are appropriate.
+[![img](http://riverstyles.joewheaton.org/_/rsrc/1304626997978/home/ICRR_Logo.png)](http://riverstyles.joewheaton.org/home/ICRR_Logo.png?attredirects=0)
 
-Funding for this project was provided by the Utah Department of Wildland Resources, Utah State University and Anabranch Solutions.
+The Logan ICRRR workshop is organized by the [Intermountain Center for River
+Restoration and Rehabilitation](http://cnr.usu.edu/icrrr/)  at [Utah State University](http://www.usu.edu/) and hosted by the [Department of Watershed Sciences](http://www.cnr.usu.edu/wats/)  and the [Fluvial Habitats Center](http://fluvialhabitatscenter.org/).
 
-<div class="row small-up-2 medium-up-3 large-up-4">
-	<div class="column column-block">
-		<img src="{{site.siteurl}}/images/photos/BDA_basin_crk2.png" title="Basin Creek"/>
-	</div>
-	<div class="column column-block">
-		<img src="{{site.siteurl}}/images/photos/breached_BDAs_san_raf2.png" title="Breached"/>,
-	</div>
-	<div class="column column-block">
-		<img src="{{site.siteurl}}/images/photos/kimbell_creek_photo_SMS.png" title="Kimbell Creek"/>
-	</div>
-	<div class="column column-block">
-		<img src="{{site.siteurl}}/images/photos/moving_beaver_basin2.png" title="Moving Beaver Basin2"/>
-	</div>
-	<div class="column column-block">
-		<img src="{{site.siteurl}}/images/photos/moving_beaver_basin.png" title="Moving Beaver Basin2"/>
-	</div>
-</div>
+![img](http://riverstyles.joewheaton.org/_/rsrc/1316187068271/home/watershed-sciences-dept-PAIRED-02.gif)
+
+[![img](http://riverstyles.joewheaton.org/_/rsrc/1373913408367/home/FHC_FullText_Blue_w150.png)](http://fluvialhabitatscenter.org/)
+
+
+
+#### Workshop Partners
+
+[![img](http://riverstyles.joewheaton.org/_/rsrc/1373920570901/home/RiverStyles_80px.png)](http://www.riverstyles.com/)
+
+The workshop instruction team is led by [Professor Gary Brierely](http://web.env.auckland.ac.nz/people_profiles/brierley_g/)  of the University of Auckland and [Dr. Joe Wheaton](http://joewheaton.org) of [Utah State University](http://usu.edu).
+
+[![img](http://riverstyles.joewheaton.org/_/rsrc/1373922118830/home/uoa_logo.jpg)](http://riverstyles.joewheaton.org/home/uoa_logo.jpg?attredirects=0)
+
+#### NOTE:
+
+River Styles®  is a registered trademark and this page is not part of the official [River Styles](http://www.riverstyles.com/) website. This workshop has been put together with the help of Gary Brierley and Kirstie Fryris, with Gary as one of the primary instructors. The full [5-day River Styles Short Course](http://www.riverstyles.com/rssc.php) is offered in Australia, and 
+this workshop is not a substitute for the official [River Styles Accreditation](http://www.riverstyles.com/rsaccredn.php) (process of becoming an official River Styler). However, this workshop will give participants a working knowledge of the River Styles framework.
+
+
 
 
