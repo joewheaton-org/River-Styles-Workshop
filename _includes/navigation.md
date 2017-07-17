@@ -24,3 +24,9 @@
 * [Lectures - WATS 6900 Only]({{ site.siteurl }}/lectures.html)
 * [River Styles Bibliography](http://www.riverstyles.com/publications.php)
 * [© 2011 - 2013 | CC]({{ site.siteurl }}/copyright.html)
+*  **Important Links**:
+*  [River Styles (official pages)](http://www.riverstyles.com/)
+*  [Gary Brierley](http://web.env.auckland.ac.nz/people_profiles/brierley_g/)
+*  [Kirstie Fryirs](http://envirogeog.mq.edu.au/about/staff/person.htm?id=kfryirs)
+*  [ET-AL (Wheaton Lab)](http://etal.joewheaton.org)
+*  [Department of Watershed Sciences](http://www.cnr.usu.edu/wats/)
