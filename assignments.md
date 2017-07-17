@@ -1,6 +1,6 @@
 ## Assignments - WATS 6900 Only
-* [River Styles Project Proposal]({{ site.siteurl }}/Assignment_Proposal.html)
-* [River Classification Literature Review]({{ site.siteurl }}/Assignment_Classification.html)
+* [River Styles Project Proposal]({{ site.baseurl }}/Assignment_Proposal.html)
+* [River Classification Literature Review]({{ site.baseurl }}/Assignment_Classification.html)
 
 
 
