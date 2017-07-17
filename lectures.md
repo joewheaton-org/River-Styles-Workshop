@@ -6,7 +6,8 @@
 
 Portion of Temple Fork Watershed we Used in Lecture 2 for Exercise (Map by Martha Jensen)
 
-###Download PDFs of Lectures:
+
+##Download PDFs of Lectures:
 
 
 | Date             | Lecture                                  |
