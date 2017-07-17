@@ -30,7 +30,7 @@ title: River Styles Espresso Workshop
   *		[L. Framing Visions & Target Conditions]({{ site.baseurl }}/Topics/Day3/l.html)
 * [Assignments - WATS 6900 Only]({{ site.baseurl }}/assignments.html)
 * [Lectures - WATS 6900 Only]({{ site.baseurl }}/lectures.html)
-* [River Styles Bibliography](http://www.riverstyles.com/publications.php){;target="_blank"}
+* [River Styles Bibliography](http://www.riverstyles.com/publications.php)
 * [© 2011 - 2013  Creative Commons]({{ site.baseurl }}/copyright.html)
 
 ### Links
