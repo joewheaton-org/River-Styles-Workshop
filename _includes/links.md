@@ -1,0 +1,7 @@
+* [Riverscapes](http://riverscapes.xyz)
+* [Joe Wheaton](http://joewheaton.org)
+* [River Styles (official pages)](http://www.riverstyles.com/)
+* [Gary Brierley](http://web.env.auckland.ac.nz/people_profiles/brierley_g/)
+* [Kirstie Fryirs](http://envirogeog.mq.edu.au/about/staff/person.htm?id=kfryirs)
+* [ET-AL (Wheaton Lab)](http://etal.joewheaton.org)
+* [Department of Watershed Sciences](http://www.cnr.usu.edu/wats/)
