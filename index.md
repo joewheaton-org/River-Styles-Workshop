@@ -2,7 +2,9 @@
 title: River Styles Espresso Workshop
 ---
 
-# Navigation
+### Navigation
+
+*Move soon to navigation bar...
 
 * [Home]({{ site.baseurl }})
 * [About the Workshops (Syllabai)]({{ site.baseurl }}/syllabus.html)
@@ -28,10 +30,10 @@ title: River Styles Espresso Workshop
   *		[L. Framing Visions & Target Conditions]({{ site.baseurl }}/Topics/Day3/l.html)
 * [Assignments - WATS 6900 Only]({{ site.baseurl }}/assignments.html)
 * [Lectures - WATS 6900 Only]({{ site.baseurl }}/lectures.html)
-* [River Styles Bibliography](http://www.riverstyles.com/publications.php)
+* [River Styles Bibliography](http://www.riverstyles.com/publications.php){;target="_blank"}
 * [© 2011 - 2013  Creative Commons]({{ site.baseurl }}/copyright.html)
 
-# Links
+### Links
 
 * [Riverscapes](http://riverscapes.xyz)
 * [Joe Wheaton](http://joewheaton.org)
