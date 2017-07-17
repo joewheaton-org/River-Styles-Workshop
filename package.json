@@ -1,7 +1,7 @@
 {
-  "name": "web_anabranch",
+  "name": "River-Styles-Workhsop",
   "version": "1.0.0",
-  "description": "This is just a quick test of the Gitbook Engine",
+  "description": "USU River Styles Workshop",
   "main": "index.js",
   "dependencies": {
     "foundation-sites": "^6.3.0"
@@ -12,12 +12,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NorthArrowResearch/web_anabranch.git"
+    "url": "git+https://github.com/joewheaton/River-Styles-Workshop.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/NorthArrowResearch/web_anabranch/issues"
+    "url": "https://github.com/joewheaton/River-Styles-Workshop.git/issues"
   },
-  "homepage": "https://github.com/NorthArrowResearch/web_anabranch#readme"
+  "homepage": "https://github.com/joewheaton/River-Styles-Workshop#readme"
 }
