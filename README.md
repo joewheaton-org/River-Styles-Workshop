@@ -1,5 +1,7 @@
 # Web Anabranch
 
+This is just Joe trying to figure out how to parse over his Google Sites. This example is from the [River Styles Workshop site](http://riverstyles.joewheaton.org).
+
 This is just a quick test of the Gitbook Engine
 
 This site uses [Jekyll](https://jekyllrb.com/) to render markdown and Github Pages to host it.  
