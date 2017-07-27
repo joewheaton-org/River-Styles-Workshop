@@ -10,3 +10,8 @@ Our aim on Day 1 is to bring everyone in the workshop up to speed on stage 1 of 
 - [D. Approaches to Analysis of River Character & Behavior]({{ site.baseurl }}/Topics/Day1/d.html)
 - [E. Lab - Desktop River Styles Analysis]({{ site.baseurl }}/Topics/Day1/e.html)
 - [F. Field Trip - River Styles on the Ground]({{ site.baseurl }}/Topics/Day1/f.html)
+
+
+
+Go to [2. Stages 2 & 3](https://sites.google.com/a/joewheaton.org/riverstyles/workshop-topics/restoration-conservation-regulations-tuesday)        Go to [3. Stage 4](https://sites.google.com/a/joewheaton.org/riverstyles/workshop-topics/designing-monitoring-restoration-projects-with-beaver-wedneday)
+
