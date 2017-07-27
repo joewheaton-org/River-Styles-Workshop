@@ -15,3 +15,7 @@ In the afternoon we will move into learning approaches to analysis of geomorphic
 
 [![2013-11-07_171059 (1)]({{ site.baseurl }}/images/2013-11-07_171059 (1).png)]({{ site.baseurl }}/images/hr/2013-11-07_171059.png)
 
+
+
+Back to [1. Stage 1](https://sites.google.com/a/joewheaton.org/riverstyles/workshop-topics/goog_182875382)[  ](https://sites.google.com/a/joewheaton.org/riverstyles/workshop-topics/stage1)      Ahead to [3. Stage 4](https://sites.google.com/a/joewheaton.org/riverstyles/workshop-topics/designing-monitoring-restoration-projects-with-beaver-wedneday)
+
