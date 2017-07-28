@@ -26,4 +26,4 @@ The presentation will include a summary of the distinguishing character attribut
 
 
 
-← [Previous Topic]({{ site.baseurl}}/Day1/e)      [Tomorrow ]({{ site.baseurl }}/Topics/Day2/day2)→
+← [Previous Topic]({{ site.baseurl }}/Topics/Day1/e)      [Tomorrow ]({{ site.baseurl }}/Topics/Day2/day2)→
