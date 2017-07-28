@@ -2,7 +2,7 @@
 
 ### Background
 
-We will start the workshop with a broad overview of [what we're trying to accomplish](http://riverstyles.joewheaton.org/syllabus/primary-learning-outcomes) in the workshop and [who the instruction team](http://riverstyles.joewheaton.org/syllabus/instructor) is made up of. We will go around and introduce our diverse group of workshop participants and learn what expertise they bring with them to the workshop and what they're hoping to get out of attending. You will also meet your teammates (see [groups](http://riverstyles.joewheaton.org/workshop-topics/stage1/a-introductions-expectations-overview/2013-groups)), for the next three days.  Finally, we will go through [the schedule for the course](http://riverstyles.joewheaton.org/system/errors/NodeNotFound?suri=wuid:gx:7e51585507c6afb2) and logistics.
+We will start the workshop with a broad overview of [what we're trying to accomplish]({{ site.baseurl }}/learning) in the workshop and [who the instruction team]({{ site.baseurl }}/instructor) is made up of. We will go around and introduce our diverse group of workshop participants and learn what expertise they bring with them to the workshop and what they're hoping to get out of attending. You will also meet your teammates (see [groups]({{ site.baseurl }}/2013-groups), for the next three days.  Finally, we will go through [the schedule for the course]({{ site.baseurl }}/schedule) and logistics.
 
 ### Resources
 
@@ -12,7 +12,7 @@ We will start the workshop with a broad overview of [what we're trying to accomp
 
 Group Assignments
 
-[2013 Groups](http://riverstyles.joewheaton.org/workshop-topics/stage1/a-introductions-expectations-overview/2013-groups)
+[2013 Groups]({{ site.baseurl }}/2013-groups)
 
 [![USUBeaverCourse2011_Stella042]({{ site.baseurl }}/assets/images/USUBeaverCourse2011_Stella042.jpg)]({{ site.baseurl }}/assets/images/hr/USUBeaverCourse2011_Stella042.jpg)
 
