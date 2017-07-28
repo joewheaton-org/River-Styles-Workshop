@@ -1,4 +1,4 @@
-[Workshop Topics](http://riverstyles.joewheaton.org/workshop-topics)‎ > ‎[Day 1](http://riverstyles.joewheaton.org/workshop-topics/stage1)‎ > ‎
+[Workshop Topics]({{ site.baseurl }}/topics)‎ > ‎[Day 1]({{ site.baseurl }}/Topics/Day1/day1)‎ > ‎
 
 ### C. River Diversity
 
@@ -16,7 +16,8 @@ Rivers exhibit a much richer range of diversity then some traditional river clas
 
 #### The Quiz Slides:
 
-#### <iframe width="560" height="315" src="https://www.youtube.com/embed/5ZTdB5Uhn9k" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5ZTdB5Uhn9k" frameborder="0" allowfullscreen></iframe>
+
 
 For the slides in the video above, identify the type of river:
 
@@ -26,4 +27,4 @@ For the slides in the video above, identify the type of river:
 
 
 
-← [Previous Topic](http://riverstyles.joewheaton.org/workshop-topics/stage1/b-RiverStyles)[  ](http://riverstyles.joewheaton.org/workshop-topics/stage1/b-RiverStyles)                              [Next Topic](http://riverstyles.joewheaton.org/workshop-topics/stage1/d-monitoring) →
+← [Previous Topic]({{ site.baseurl }}/Topics/Day1/b)                     [Next Topic]({{ site.baseurl }}/Topics/Day1/d) →
