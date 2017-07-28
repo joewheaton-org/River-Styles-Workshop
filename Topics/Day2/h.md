@@ -38,19 +38,19 @@ This topics helps us with the following learning outcomes for the workshop:
 
 #### Mapping Layers for Logan River:
 
-- [![img](http://riverstyles.joewheaton.org/_/rsrc/1501108765897/workshop-topics/restoration-conservation-regulations-tuesday/h-LandscapeConnectivity/kmz.gif)](http://riverstyles.joewheaton.org/workshop-topics/restoration-conservation-regulations-tuesday/h-LandscapeConnectivity/kmz.gif?attredirects=0) `LoganRiverMainstemNHD.kmz `- The NHD drainage network of just the mainstem of the Logan River (the one one you need for today's excercise)
+- [LoganRiverMainstemNHD.kmz](http://etal.usu.edu/Workshops/RiverStyles/2013/Excercises/Day2/LoganRiverMainstemNHD.kmz) - The NHD drainage network of just the mainstem of the Logan River (the one one you need for today's excercise)
 
-- [![img](http://riverstyles.joewheaton.org/_/rsrc/1501108765897/workshop-topics/restoration-conservation-regulations-tuesday/h-LandscapeConnectivity/folder_zipper.png)](http://riverstyles.joewheaton.org/workshop-topics/restoration-conservation-regulations-tuesday/h-LandscapeConnectivity/folder_zipper.png?attredirects=0) `LoganRiver.zip` - Shapefiles of the NHD Drainage Networks for editing in ArcGIS
+- [LoganRiver.zip](http://etal.usu.edu/Workshops/RiverStyles/2013/Excercises/Day2/LoganRiver.zip) - Shapefiles of the NHD Drainage Networks for editing in ArcGIS
 
   ​
 
-- [![img](http://riverstyles.joewheaton.org/_/rsrc/1501108765897/workshop-topics/restoration-conservation-regulations-tuesday/h-LandscapeConnectivity/kmz.gif)](http://riverstyles.joewheaton.org/workshop-topics/restoration-conservation-regulations-tuesday/h-LandscapeConnectivity/kmz.gif?attredirects=0) `LoganRiverWatershedNHD.kmz `- The NHD drainage network for the Logan River Watershed
+- [LoganRiverWatershedNHD.kmz](http://etal.usu.edu/Workshops/RiverStyles/2013/Excercises/Day2/LoganRiverWatershedNHD.kmz) - The NHD drainage network for the Logan River Watershed
 
-- [![img](http://riverstyles.joewheaton.org/_/rsrc/1501108765897/workshop-topics/restoration-conservation-regulations-tuesday/h-LandscapeConnectivity/kmz.gif)](http://riverstyles.joewheaton.org/workshop-topics/restoration-conservation-regulations-tuesday/h-LandscapeConnectivity/kmz.gif?attredirects=0) `BlacksmithForkNHD.kmz `- The NHD drainage network for the Blacksmith Fork Watershed
+- [BlacksmithForkNHD.kmz](http://etal.usu.edu/Workshops/RiverStyles/2013/Excercises/Day2/BlacksmithForkNHD.kmz) - The NHD drainage network for the Blacksmith Fork Watershed
 
 Symbology to use:
 
-`LoganRiver_RiverStyles.lyr` - Import this symbology definition into your `LoganRiverMainstem_NHD shapefile`.
+[LoganRiver_RiverStyles.lyr](http://etal.usu.edu/Workshops/RiverStyles/2013/Excercises/Day2/LoganRiver_RiverStyles.lyr) - Import this symbology definition into your LoganRiverMainstem_NHD shapefile.
 
 ![RiverStyle_Legend]({{ site.baseurl }}/assets/images/RiverStyle_Legend.png)
 
