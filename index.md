@@ -27,7 +27,7 @@ title: River Styles Espresso Workshop
     *	[I. Controls on River Styles Distributions]({{ site.baseurl }}/Topics/Day2/i.html)
     *	[J. River Condition Assessment & Recovery Potential]({{ site.baseurl }}/Topics/Day2/j.html)
    *   [Day 3]({{ site.baseurl }}/Topics/Day3/day3.html)
-    *   [L. Framing Visions & Target Conditions]({{ site.baseurl }}/Topics/Day3/l.html)
+         *   [L. Framing Visions & Target Conditions]({{ site.baseurl }}/Topics/Day3/l.html)
 * [Assignments - WATS 6900 Only]({{ site.baseurl }}/assignments.html)
 * [Lectures - WATS 6900 Only]({{ site.baseurl }}/lectures.html)
 * [River Styles Bibliography](http://www.riverstyles.com/publications.php)
