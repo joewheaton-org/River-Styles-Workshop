@@ -1,4 +1,4 @@
-[Workshop Topics](https://sites.google.com/a/joewheaton.org/riverstyles/workshop-topics)‎ > ‎[Day 3](https://sites.google.com/a/joewheaton.org/riverstyles/workshop-topics/designing-monitoring-restoration-projects-with-beaver-wedneday)‎ > ‎
+[Workshop Topics]({{ site.baseurl }}/topics)‎ > ‎[Day 3]({{ site.baseurl }}/Topics/Day3/day3)‎ > ‎
 
 ### L. Framing Visions & Target Conditions
 
@@ -24,7 +24,7 @@ This topics helps us with the following learning outcomes for the workshop:
 
   ​
 
-- ![9781610911054_p0_v2_s260x420]({{ site.baseurl }}/images/9781610911054_p0_v2_s260x420.JPG)
+- ![9781610911054_p0_v2_s260x420]({{ site.baseurl }}/assets/images/9781610911054_p0_v2_s260x420.JPG)
 
 
 
@@ -32,7 +32,7 @@ This topics helps us with the following learning outcomes for the workshop:
 
 #### Slides & Handouts
 
-[![img](https://sites.google.com/a/joewheaton.org/riverstyles/_/rsrc/1501108765894/workshop-topics/designing-monitoring-restoration-projects-with-beaver-wedneday/g-FramingVisions/pdfIcon.png)](https://sites.google.com/a/joewheaton.org/riverstyles/workshop-topics/designing-monitoring-restoration-projects-with-beaver-wedneday/g-FramingVisions/pdfIcon.png?attredirects=0) [Stage 4 Slides](http://etal.usu.edu/Workshops/RiverStyles/2013/RS%206%20Stage%204.pdf) - From Gary
+ [Stage 4 Slides](http://etal.usu.edu/Workshops/RiverStyles/2013/RS%206%20Stage%204.pdf) - From Gary
 
 ------
 
@@ -48,4 +48,4 @@ This topics helps us with the following learning outcomes for the workshop:
 
 ------
 
-← [Previous Topic](https://sites.google.com/a/joewheaton.org/riverstyles/workshop-topics/restoration-conservation-regulations-tuesday/k-lab---condition-assessment)[  ](https://sites.google.com/a/joewheaton.org/riverstyles/workshop-topics/stage1/b-RiverStyles)                              [Next Topic](https://sites.google.com/a/joewheaton.org/riverstyles/system/errors/NodeNotFound?suri=wuid:gx:4de0ce70f1acf0c9) →
+← [Previous Topic]({{ site.baseurl }}/Topics/Day2/k)   
