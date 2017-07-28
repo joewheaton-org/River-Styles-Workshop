@@ -1,17 +1,5 @@
-# Web Anabranch
+# River Styles Workshop Website
 
-This is just Joe trying to figure out how to parse over his Google Sites. This example is from the [River Styles Workshop site](http://riverstyles.joewheaton.org).
+This is a repository for the source code to a course workshop website for River Styles. See link below for access to rendered website:
 
-This is just a quick test of the Gitbook Engine
-
-This site uses [Jekyll](https://jekyllrb.com/) to render markdown and Github Pages to host it.  
-
-## Where to find things:
-
-* `_includes/navigation.md` - Navigation on this site is manually created in this file
-* `_includes/links.md` - Extra links that appear underneath the navigation
-* `css/*.scss` - The CSS styling for your site.
-
-### I see special HTML I don't recognize
-
-This site uses the [foundation framework](http://foundation.zurb.com). Checkout [their docs](http://foundation.zurb.com/sites/docs/) for specific instructions about special HTML tags and classes.
+[https://joewheaton-org.github.io/River-Styles-Workshop/](https://joewheaton-org.github.io/River-Styles-Workshop/)
