@@ -42,8 +42,6 @@ This topics helps us with the following learning outcomes for the workshop:
 
 - [LoganRiver.zip](http://etal.usu.edu/Workshops/RiverStyles/2013/Excercises/Day2/LoganRiver.zip) - Shapefiles of the NHD Drainage Networks for editing in ArcGIS
 
-  ​
-
 - [LoganRiverWatershedNHD.kmz](http://etal.usu.edu/Workshops/RiverStyles/2013/Excercises/Day2/LoganRiverWatershedNHD.kmz) - The NHD drainage network for the Logan River Watershed
 
 - [BlacksmithForkNHD.kmz](http://etal.usu.edu/Workshops/RiverStyles/2013/Excercises/Day2/BlacksmithForkNHD.kmz) - The NHD drainage network for the Blacksmith Fork Watershed
