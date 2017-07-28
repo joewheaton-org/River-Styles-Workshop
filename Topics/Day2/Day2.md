@@ -1,4 +1,4 @@
-[Workshop Topics](http://riverstyles.joewheaton.org/workshop-topics)‎ > ‎
+[Workshop Topics]({{ site.baseurl }}/topics)‎ > ‎
 
 ### Day 2
 
@@ -13,9 +13,8 @@ In the afternoon we will move into learning approaches to analysis of geomorphic
 * [I. Controls on River Styles Distributions]({{ site.baseurl }}/Topics/Day2/i.html)
 * [J. River Condition Assessment & Recovery Potential]({{ site.baseurl }}/Topics/Day2/j.html)
 
-[![2013-11-07_171059 (1)]({{ site.baseurl }}/images/2013-11-07_171059 (1).png)]({{ site.baseurl }}/images/hr/2013-11-07_171059.png)
+[![2013-11-07_171059 (1)]({{ site.baseurl }}/assets/images/2013-11-07_171059 (1).png)]({{ site.baseurl }}/assets/images/hr/2013-11-07_171059.png)
 
 
 
-Back to [1. Stage 1](https://sites.google.com/a/joewheaton.org/riverstyles/workshop-topics/goog_182875382)[  ](https://sites.google.com/a/joewheaton.org/riverstyles/workshop-topics/stage1)      Ahead to [3. Stage 4](https://sites.google.com/a/joewheaton.org/riverstyles/workshop-topics/designing-monitoring-restoration-projects-with-beaver-wedneday)
-
+Back to [1. Stage 1]({{ site.baseurl }}/Topics/Day1/day1)      Ahead to [3. Stage 4]({{ site.baseurl }}/Topics/Day3/day3)
