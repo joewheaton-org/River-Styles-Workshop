@@ -1,4 +1,4 @@
-[Workshop Topics](http://riverstyles.joewheaton.org/workshop-topics)‎ > ‎[Day 2](http://riverstyles.joewheaton.org/workshop-topics/restoration-conservation-regulations-tuesday)‎ > ‎
+[Workshop Topics]({{ site.baseurl }}/topics)‎ > ‎[Day 2]({{ site.baseurl }}/Topics/Day2/day2)‎ >
 
 ### J. River Condition Assessment & Recovery Potential
 
@@ -31,7 +31,7 @@ This topics helps us with the following learning outcomes for the workshop:
 
 #### Slides & Handouts
 
-- [![img](http://riverstyles.joewheaton.org/_/rsrc/1501108765898/workshop-topics/restoration-conservation-regulations-tuesday/j-river-condition-assessment-evolutionary-trajectories/pdfIcon.png)](http://riverstyles.joewheaton.org/workshop-topics/restoration-conservation-regulations-tuesday/j-river-condition-assessment-evolutionary-trajectories/pdfIcon.png?attredirects=0) [Gary's Slides ](http://etal.usu.edu/Workshops/RiverStyles/2013/RS%205%20Stages%202%20&%203.pdf)on Stages 2 & 3 of the River Styles Framework
+- [Gary's Slides ](http://etal.usu.edu/Workshops/RiverStyles/2013/RS%205%20Stages%202%20&%203.pdf)on Stages 2 & 3 of the River Styles Framework
 
 ------
 
@@ -42,6 +42,6 @@ This topics helps us with the following learning outcomes for the workshop:
 - - *See Chapter 10 of Brierley & Fryirs (2005) for Stage 2*
   - *See Chapter 11 of Brierley & Fryirs (2005) for Stage 3*
 
- 
 
-← [Previous Topic](http://riverstyles.joewheaton.org/workshop-topics/restoration-conservation-regulations-tuesday/i-lab-exercise-on-controls)[  ](http://riverstyles.joewheaton.org/workshop-topics/stage1/b-RiverStyles)                              [Next Topic](http://riverstyles.joewheaton.org/workshop-topics/restoration-conservation-regulations-tuesday/k-lab---condition-assessment) →
+
+← [Previous Topic]({{ site.baseurl }}/Topics/Day2/i)                [Next Topic ]({{ site.baseurl }}/Topics/Day3/l)   →
