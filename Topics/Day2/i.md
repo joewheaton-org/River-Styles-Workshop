@@ -43,15 +43,15 @@ This topics helps us with the following learning outcomes for the workshop:
 
 Logan River
 
-- [![img](http://riverstyles.joewheaton.org/_/rsrc/1501108765897/workshop-topics/restoration-conservation-regulations-tuesday/i-lab-exercise-on-controls/Excel_icon.gif)](http://riverstyles.joewheaton.org/workshop-topics/restoration-conservation-regulations-tuesday/i-lab-exercise-on-controls/Excel_icon.gif?attredirects=0) `LoganRiver_SP.xlsx` - As excel file
-- `LoganRiverStackedProfiles.ai `- editable Adobe Illustrator File
-- [![img](http://riverstyles.joewheaton.org/_/rsrc/1501108765897/workshop-topics/restoration-conservation-regulations-tuesday/i-lab-exercise-on-controls/pdfIcon.png)](http://riverstyles.joewheaton.org/workshop-topics/restoration-conservation-regulations-tuesday/i-lab-exercise-on-controls/pdfIcon.png?attredirects=0) `LoganRiverStackedProfiles.pdf `- PDF
+-  [LoganRiver_SP.xlsx](http://etal.usu.edu/Workshops/RiverStyles/2013/Excercises/Day2/LoganRiver_SP.xlsx) - As excel file
+-  [LoganRiverStackedProfiles.ai](http://etal.usu.edu/Workshops/RiverStyles/2013/Excercises/Day2/LoganRiverStackedProfiles.ai) - editable Adobe Illustrator File
+  -[LoganRiverStackedProfiles.pdf](http://etal.usu.edu/Workshops/RiverStyles/2013/Excercises/Day2/BlacksmithForkStackedProfiles.pdf) - PDF
 
 Blacksmith Fork
 
-- [![img](http://riverstyles.joewheaton.org/_/rsrc/1501108765897/workshop-topics/restoration-conservation-regulations-tuesday/i-lab-exercise-on-controls/Excel_icon.gif)](http://riverstyles.joewheaton.org/workshop-topics/restoration-conservation-regulations-tuesday/i-lab-exercise-on-controls/Excel_icon.gif?attredirects=0) `BlacksmithFork_SP.xlsx` - As excel file
-- `BlacksmithForkStackedProfiles.ai `- editable Adobe Illustrator File
-- [![img](http://riverstyles.joewheaton.org/_/rsrc/1501108765897/workshop-topics/restoration-conservation-regulations-tuesday/i-lab-exercise-on-controls/pdfIcon.png)](http://riverstyles.joewheaton.org/workshop-topics/restoration-conservation-regulations-tuesday/i-lab-exercise-on-controls/pdfIcon.png?attredirects=0) `BlacksmithForkStackedProfiles.pdf `- PDF
+- [BlacksmithFork_SP.xlsx](http://etal.usu.edu/Workshops/RiverStyles/2013/Excercises/Day2/BlacksmithFork_SP.xlsx) - As excel file
+- [BlacksmithForkStackedProfiles.ai](http://etal.usu.edu/Workshops/RiverStyles/2013/Excercises/Day2/BlacksmithForkStackedProfiles.ai) - editable Adobe Illustrator File
+- [BlacksmithForkStackedProfiles.pdf](http://etal.usu.edu/Workshops/RiverStyles/2013/Excercises/Day2/BlacksmithForkStackedProfiles.pdf) - PDF
 
 #### Relevant or Cited Literature
 
