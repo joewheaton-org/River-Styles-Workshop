@@ -22,9 +22,8 @@ The presentation will include a summary of the distinguishing character attribut
 
 
 
-<u>**Need to insert map here**</u>
+<iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d221366.92734069302!2d-111.678085!3d41.863425!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sen!2sus!4v1501269610097" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 
 
-← P[revious Topic](http://riverstyles.joewheaton.org/workshop-topics/stage1/goog_1338826384)[ ](http://riverstyles.joewheaton.org/workshop-topics/stage1/e-lab---desktop-river-styles-analysi)       [Tomorrow ](http://riverstyles.joewheaton.org/workshop-topics/restoration-conservation-regulations-tuesday)→
-
+← [Previous Topic]({http://riverstyles.joewheaton.org/workshop-topics/stage1/goog_1338826384)[ ](http://riverstyles.joewheaton.org/workshop-topics/stage1/e-lab---desktop-river-styles-analysi}{ site.baseurl }}/Day1/e)       [Tomorrow ]({{ site.baseurl }}/Topic/Day2/day2)→
