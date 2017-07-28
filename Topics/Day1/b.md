@@ -1,4 +1,4 @@
-[Workshop Topics](http://riverstyles.joewheaton.org/workshop-topics)‎ > ‎[Day 1](http://riverstyles.joewheaton.org/workshop-topics/stage1)‎ > ‎
+[Workshop Topics]({{ site.baseurl }}/topics)‎ > ‎[Day 1]({{ site.baseurl }}/Topics/Day1/day1)‎ > ‎
 
 ### B. Approaches to Analysis of River Character and Behaviour
 
@@ -18,7 +18,7 @@ This topics helps us with the following learning outcome for the workshop:
 
 - Through lectures, laboratory exercises, field visits and discussions, develop a working knowledge of Stage 1 of the River Styles framework (river character and behaviour, analysis of catchment-scale river patterns)
 
-[![Fig_9.1]({{ site.baseurl }}/images/Fig_9.1.png)]({{ site.baseurl }}/images/hr/Fig_9.1.png)
+[![Fig_9.1]({{ site.baseurl }}/assets/images/Fig_9.1.png)]({{ site.baseurl }}/assets/images/hr/Fig_9.1.png)
 
 
 
@@ -40,4 +40,4 @@ This topics helps us with the following learning outcome for the workshop:
 
 ------
 
-← [Previous Topic  ](http://riverstyles.joewheaton.org/workshop-topics/stage1/a-introductions-expectations-overview)                [Next Topic](http://riverstyles.joewheaton.org/workshop-topics/stage1/c-ecological-hydrogeomorphic-feedbacks-of-beaver-dams) →
+← [Previous Topic  ]({{ site.baseurl }}/Topics/Day1/a)                [Next Topic]({{ site.baseurl }}/Topics/Day1/c) →
