@@ -28,5 +28,4 @@ A breached beaver dam on Beaver Creek.
     *	[I. Controls on River Styles Distributions]({{ site.baseurl }}/Topics/Day2/i.html)
     *	[J. River Condition Assessment & Recovery Potential]({{ site.baseurl }}/Topics/Day2/j.html)
    *   [Day 3]({{ site.baseurl }}/Topics/Day3/day3.html)
-        *   [L. Framing Visions & Target Conditions]({{ site.baseurl 
-
+        *   [L. Framing Visions & Target Conditions]({{ site.baseurl }}/Topics/Day3/l.html)
