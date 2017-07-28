@@ -2,12 +2,12 @@
 
 All workshop topics are  left here as a resource for you to refer back to or dig into for more information as and when you need it.
 
-![IMG_0852]({{ site.baseurl }}/images/IMG_0852.JPG)
+![IMG_0852]({{ site.baseurl }}/assets/images/IMG_0852.JPG)
 
 Joe lecturing to a group of students at the base of a beaver dam on Temple Fork 
 
 
-[![DSC02740]({{ site.baseurl }}/images/DSC02740.JPG)]({{ site.baseurl }}/images/hr/DSC02740.JPG)
+[![DSC02740]({{ site.baseurl }}/assets/images/DSC02740.JPG)]({{ site.baseurl }}/assets/images/hr/DSC02740.JPG)
 
 A breached beaver dam on Beaver Creek.
 
