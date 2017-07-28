@@ -1,4 +1,4 @@
-[Workshop Topics](http://riverstyles.joewheaton.org/workshop-topics)‎ > ‎[Day 2](http://riverstyles.joewheaton.org/workshop-topics/restoration-conservation-regulations-tuesday)‎ > ‎
+[Workshop Topics]({{ site.baseurl }}/topics)‎ > ‎[Day 2]({{ site.baseurl }}/Topics/Day2/day2)‎ >
 
 ### G. Emerging Technologies for Appraising River Behavior
 
@@ -6,7 +6,7 @@
 
 ### Background
 
-![GCD_SplashLogo_200]({{ site.baseurl }}/images/GCD_SplashLogo_200.png)
+![GCD_SplashLogo_200]({{ site.baseurl }}/assets/images/GCD_SplashLogo_200.png)
 
 #### Synopsis of Topic
 
@@ -43,6 +43,6 @@ This topics helps us with the following learning outcomes for the workshop:
 - Wheaton JM, Brasington J, Darby SE, Merz JE, Pasternack GB, Sear DA and Vericat D‡. 2010. [Linking Geomorphic Changes to Salmonid Habitat at a Scale Relevant to Fish. River Research and Applications](http://www.joewheaton.org/Home/research/paper-downloads/Wheaton_EcohydraulicSI_RRA.pdf).26: 469-486. DOI: [10.1002/rra.1305](http://dx.doi.org/10.1002/rra.1305).
 - Bangen SG*, Wheaton JM and Bouwes N. In Press. [A methodological intercomparison of topographic survey techniques for characterizing wadeable streams and rivers](http://dx.doi.org/10.1016/j.geomorph.2013.10.010). Geomorphology. DOI:[10.1016/j.geomorph.2013.10.010](http://dx.doi.org/10.1016/j.geomorph.2013.10.010).
 
- 
 
-← [Previous Topic](http://riverstyles.joewheaton.org/workshop-topics/stage1/f-field-trip---river-styles-on-the-ground)[ ](http://riverstyles.joewheaton.org/workshop-topics/stage1/b-RiverStyles)                             [Next Topic ](http://riverstyles.joewheaton.org/workshop-topics/restoration-conservation-regulations-tuesday/h-LandscapeConnectivity) →
+
+← [Previous Topic]({{ site.baseurl }}/Topics/Day1/f)                [Next Topic ]({{ site.baseurl }}/Topics/Day2/h)   →
