@@ -1,4 +1,4 @@
-[Workshop Topics](http://riverstyles.joewheaton.org/workshop-topics)‎ > ‎[Day 1](http://riverstyles.joewheaton.org/workshop-topics/stage1)‎ > ‎
+[Workshop Topics]({{ site.baseurl }}/topics)‎ > ‎[Day 1]({{ site.baseurl }}/Topics/Day1/day1)‎ > ‎
 
 ### D. Approaches to Analysis of River Character & Behavior
 
@@ -10,7 +10,7 @@
 
 Stage 1 of the River Styles Framework is the product of an analysis of river character (form) and behavior (process).  In this lecture, Gary walks you through an overview of the steps in Stage 1. 
 
-[![RiverStyles_StageOne]({{ site.baseurl }}/images/RiverStyles_StageOne.png)]({{ site.baseurl }}/images/hr0/RiverStyles_StageOne.png)
+[![RiverStyles_StageOne]({{ site.baseurl }}/assets/images/RiverStyles_StageOne.png)]({{ site.baseurl }}/assets/images/hr0/RiverStyles_StageOne.png)
 
 #### Learning Outcomes
 
@@ -32,4 +32,5 @@ This topics helps us with the following learning outcomes for the workshop:
 
 
 
-← [Previous Topic](http://riverstyles.joewheaton.org/workshop-topics/stage1/c-ecological-hydrogeomorphic-feedbacks-of-beaver-dams)          [Next Topic](http://riverstyles.joewheaton.org/workshop-topics/stage1/e-lab---desktop-river-styles-analysi) →
+← [Previous Topic]({{ site.baseurl }}/Topics/Day1/c)                     [Next Topic]({{ site.baseurl }}/Topics/Day1/e) →
+
