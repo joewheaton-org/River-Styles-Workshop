@@ -9,8 +9,6 @@ Throughout the workshop we will do group exercises in the lab and field. These t
 **Group 1**
 
 1. Steve Forney - Teraqua
-
-
 2. Carl Saunders - USU ELR/ETAL
 3. Nick Weber - ELR
 4. Kent 'Sorno' Sorenson - UDWR
