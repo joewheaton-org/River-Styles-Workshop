@@ -1,4 +1,4 @@
-[Workshop Topics](http://riverstyles.joewheaton.org/workshop-topics)‎ > ‎[Day 2](http://riverstyles.joewheaton.org/workshop-topics/restoration-conservation-regulations-tuesday)‎ > ‎
+[Workshop Topics]({{ site.baseurl }}/topics)‎ > ‎[Day 2]({{ site.baseurl }}/Topics/Day2/day2)‎ >
 
 ### H. Mapping & Naming River Styles
 
@@ -17,7 +17,7 @@ To actually map and classify the drainage network, you will need to have defined
 
 Temple Fork Example of River Styles
 
-[![Figure_02_LR]({{ site.baseurl }}/images/Figure_02_LR.png)](https://06a8da89-a-2d9a1e61-s-sites.googlegroups.com/a/joewheaton.org/riverstyles/workshop-topics/restoration-conservation-regulations-tuesday/h-LandscapeConnectivity/Figure_02_LR.png?attachauth=ANoY7cr3dbZa6H72PaBObh95v0rklY2olDOPat7-wtunEfuaCCjMy8XKSIm8x9CXaqgF-33HdVMPVsdndq0yhY1Yi1NIMbIcnFVZPgFt3fEStGKqUjdNdCQ4OOhaAQ3wfLV-I16kyT1fUSVcStEfiVZTVCCONRVQ7LieSmpSuhe2iGUjJeueWNf7JE2mKvRN2ZfU3u7-8gC1jVtED3rtPjZjQHNdI_aHvgoZw4wtDZ4PeGp5uyOb92opA3pZzQdvLjdf0HJE6mWeDV1bhffe-H8C9ZcuHoNwVWDoaKeMJZcdyQ1Uo5YhEAFjDzQltAM_l626GUguSo8bXrcg-yrn6hfRjfp3hPQirA%3D%3D&attredirects=0)
+[![Figure_02_LR]({{ site.baseurl }}/assets/images/Figure_02_LR.png)](https://06a8da89-a-2d9a1e61-s-sites.googlegroups.com/a/joewheaton.org/riverstyles/workshop-topics/restoration-conservation-regulations-tuesday/h-LandscapeConnectivity/Figure_02_LR.png?attachauth=ANoY7cr3dbZa6H72PaBObh95v0rklY2olDOPat7-wtunEfuaCCjMy8XKSIm8x9CXaqgF-33HdVMPVsdndq0yhY1Yi1NIMbIcnFVZPgFt3fEStGKqUjdNdCQ4OOhaAQ3wfLV-I16kyT1fUSVcStEfiVZTVCCONRVQ7LieSmpSuhe2iGUjJeueWNf7JE2mKvRN2ZfU3u7-8gC1jVtED3rtPjZjQHNdI_aHvgoZw4wtDZ4PeGp5uyOb92opA3pZzQdvLjdf0HJE6mWeDV1bhffe-H8C9ZcuHoNwVWDoaKeMJZcdyQ1Uo5YhEAFjDzQltAM_l626GUguSo8bXrcg-yrn6hfRjfp3hPQirA%3D%3D&attredirects=0)
 
 
 Figure from Lokteff et al. (2013) produced by Martha Jensen.
@@ -52,7 +52,7 @@ Symbology to use:
 
 `LoganRiver_RiverStyles.lyr` - Import this symbology definition into your `LoganRiverMainstem_NHD shapefile`.
 
-![RiverStyle_Legend]({{ site.baseurl }}/images/RiverStyle_Legend.png)
+![RiverStyle_Legend]({{ site.baseurl }}/assets/images/RiverStyle_Legend.png)
 
 
 
@@ -66,4 +66,4 @@ Symbology to use:
 
 
 
-← [Previous Topic](http://riverstyles.joewheaton.org/workshop-topics/restoration-conservation-regulations-tuesday/g-controls-on-pattern)[  ](http://riverstyles.joewheaton.org/workshop-topics/stage1/b-RiverStyles)                              [Next Topic ](http://riverstyles.joewheaton.org/workshop-topics/restoration-conservation-regulations-tuesday/i-lab-exercise-on-controls) →
+← [Previous Topic]({{ site.baseurl }}/Topics/Day2/g)                [Next Topic ]({{ site.baseurl }}/Topics/Day2/i)   →
