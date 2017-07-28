@@ -29,7 +29,6 @@ Sites have been selected as representative locations for the analysis of river t
 
 #### Site Locations - Logan River Watershed
 
-### 
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d209267.31060781438!2d-111.678085!3d41.853196!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sen!2sus!4v1501263912013" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
@@ -85,4 +84,4 @@ See
 
 ------
 
-← [Previous Topic](http://riverstyles.joewheaton.org/workshop-topics/stage1/d-monitoring)                    [Next Topic](http://riverstyles.joewheaton.org/workshop-topics/stage1/f-field-trip---river-styles-on-the-ground) →
+← [Previous Topic]({{ site.baseurl }}/Topics/Day1/d)                    [Next Topic]({{ site.baseurl }}/Topics/Day1/f) →
