@@ -1,4 +1,4 @@
-[Workshop Topics](http://riverstyles.joewheaton.org/workshop-topics)‎ > ‎[Day 1](http://riverstyles.joewheaton.org/workshop-topics/stage1)‎ > ‎
+[Workshop Topics]({{ site.baseurl }}/topics)‎ > ‎[Day 1]({{ site.baseurl }}/Topics/Day1/day1)‎ > ‎
 
 ### E. Lab - Desktop River Styles Analysis
 
@@ -8,20 +8,20 @@
 
 #### Introduction to Topic
 
-In this exercise you will take the principles discussed in the [lecture](http://riverstyles.joewheaton.org/workshop-topics/stage1/d-monitoring) on river character and behavior and learn how to apply them to specific reach types. You and your group will fill out the proformas at your assigned site(s) to the best of your ability prior to visiting these sites in the field this afternoon. 
+In this exercise you will take the principles discussed in the [lecture]({{ site.baseurl }}/Topics/Day1/d) on river character and behavior and learn how to apply them to specific reach types. You and your group will fill out the proformas at your assigned site(s) to the best of your ability prior to visiting these sites in the field this afternoon. 
 
 #### Learning Objectives
 
 - Develop an understanding of geomorphic approaches to catchment-scale analysis of river systems as a biophysical platform for coherent and proactive river restoration planning – show how the River Styles framework presents a scaffolded approach to address these issues
 - Through lectures, **laboratory exercises**, field visits and discussions, develop a working knowledge of Stage 1 of the River Styles framework (river character and behaviour, analysis of catchment-scale river patterns)
 
-[![LoganRiver_Site3]({{ site.baseurl }}/images/LoganRiver_Site3.png)]({{ site.baseurl }}/images/hr/LoganRiver_Site3.png)
+[![LoganRiver_Site3]({{ site.baseurl }}/assets/images/LoganRiver_Site3.png)]({{ site.baseurl }}/assets/images/hr/LoganRiver_Site3.png)
 
 ### Exercise Materials
 
 #### Proforma Sites
 
-Sites have been selected as representative locations for the analysis of river types (i.e. River Styles) in this exercise, and the analysis of river patterns (tomorrow). Two sites will be inaccessible (sites 1 and 2) and will only be used in the [river pattern exercise](http://riverstyles.joewheaton.org/workshop-topics/restoration-conservation-regulations-tuesday/h-LandscapeConnectivity). 
+Sites have been selected as representative locations for the analysis of river types (i.e. River Styles) in this exercise, and the analysis of river patterns (tomorrow). Two sites will be inaccessible (sites 1 and 2) and will only be used in the [river pattern exercise]({{ site.baseurl }}/Topics/Day2/h). 
 
 
 
@@ -58,7 +58,7 @@ Sites have been selected as representative locations for the analysis of river t
 
 #### Preview of Proformas for Each:
 
-[![LoganRiver_Site6]({{ site.baseurl }}/images/LoganRiver_Site6.png)](https://get.google.com/albumarchive/112875203842919433098/album/AF1QipM46Tm090qebYApy3E2jZ4cw5OaHg4TvVgaBym6)
+[![LoganRiver_Site6]({{ site.baseurl }}/assets/images/LoganRiver_Site6.png)](https://get.google.com/albumarchive/112875203842919433098/album/AF1QipM46Tm090qebYApy3E2jZ4cw5OaHg4TvVgaBym6)
 
 
 
