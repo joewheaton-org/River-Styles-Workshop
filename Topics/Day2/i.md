@@ -1,4 +1,4 @@
-[Workshop Topics](http://riverstyles.joewheaton.org/workshop-topics)‎ > ‎[Day 2](http://riverstyles.joewheaton.org/workshop-topics/restoration-conservation-regulations-tuesday)‎ > ‎
+[Workshop Topics]({{ site.baseurl }}/topics)‎ > ‎[Day 2]({{ site.baseurl }}/Topics/Day2/day2)‎ >
 
 ### I. Controls on River Styles Distributions
 
@@ -14,7 +14,7 @@
 
 
 
-[![LoganRiverStackedProfiles]({{ site.baseurl }}/images/LoganRiverStackedProfiles.png)]({{ site.baseurl }}/images/hr/LoganRiverStackedProfiles.png)
+[![LoganRiverStackedProfiles]({{ site.baseurl }}/assets/images/LoganRiverStackedProfiles.png)]({{ site.baseurl }}/assets/images/hr/LoganRiverStackedProfiles.png)
 
 #### Why We're Covering It
 
@@ -61,6 +61,6 @@ Blacksmith Fork
   - *See p 274-285 (tables 9.7-9.9)of Brierley & Fryirs (2005) for examples of completed proformas*
   - *See Chapter 4 of Brierley and Fryirs (2005) for techniques to describe river character and nomenclature*
 
- 
 
-← [Previous Topic](http://riverstyles.joewheaton.org/workshop-topics/restoration-conservation-regulations-tuesday/h-LandscapeConnectivity)[  ](http://riverstyles.joewheaton.org/workshop-topics/stage1/b-RiverStyles)                              [Next Topic](http://riverstyles.joewheaton.org/workshop-topics/restoration-conservation-regulations-tuesday/j-river-condition-assessment-evolutionary-trajectories) →
+
+← [Previous Topic]({{ site.baseurl }}/Topics/Day2/h)                [Next Topic ]({{ site.baseurl }}/Topics/Day2/j)   →
