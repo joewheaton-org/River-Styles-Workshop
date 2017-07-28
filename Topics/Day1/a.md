@@ -14,7 +14,6 @@ Group Assignments
 
 [2013 Groups](http://riverstyles.joewheaton.org/workshop-topics/stage1/a-introductions-expectations-overview/2013-groups)
 
-[![USUBeaverCourse2011_Stella042]({{ site.baseurl }}/images/USUBeaverCourse2011_Stella042.jpg)]({{ site.baseurl }}/images/hr/USUBeaverCourse2011_Stella042.jpg)
+[![USUBeaverCourse2011_Stella042]({{ site.baseurl }}/assets/images/USUBeaverCourse2011_Stella042.jpg)]({{ site.baseurl }}/assets/images/hr/USUBeaverCourse2011_Stella042.jpg)
 
-[Next Topic](http://riverstyles.joewheaton.org/workshop-topics/stage1/b-RiverStyles) →
-
+[Next Topic]({{ site.baseurl }}/Topics/Day1/b) →
