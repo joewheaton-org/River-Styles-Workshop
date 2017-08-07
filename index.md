@@ -74,11 +74,11 @@ Total participation is capped at 25 participants to ensure quality instruction, 
 The Logan ICRRR workshop is organized by the [Intermountain Center for River
 Restoration and Rehabilitation](http://cnr.usu.edu/icrrr/)  at [Utah State University](http://www.usu.edu/) and hosted by the [Department of Watershed Sciences](http://www.cnr.usu.edu/wats/)  and the [Fluvial Habitats Center](http://fluvialhabitatscenter.org/).
 
-![img]({{site.baseurl}}assets/images/watershed-sciences-dept-PAIRED-02.gif)
+![img]({{site.baseurl}}/assets/images/watershed-sciences-dept-PAIRED-02.gif)
 
 
 
-[![img]({{site.baseurl}}assets/images/FHC_FullText_Blue_w150.png)](http://fluvialhabitatscenter.org/)
+[![img]({{site.baseurl}}/assets/images/FHC_FullText_Blue_w150.png)](http://fluvialhabitatscenter.org/)
 
 
 
