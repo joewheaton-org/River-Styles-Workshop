@@ -7,12 +7,14 @@ title: River Styles Espresso Workshop
 *Move soon to navigation bar...
 
 * [Home]({{ site.baseurl }})
+
 * [About the Workshops (Syllabai)]({{ site.baseurl }}/syllabus.html)
   *   [Primary Learning Outcomes]({{ site.baseurl }}/background_information.html)
   *   [Workshop Schedules]({{ site.baseurl }}/schedule.html)
   *   [Venue & Logisitcs]({{ site.baseurl }}/venue.html)
   *   [Recommended Readings]({{ site.baseurl }}/readings.html)
   *   [Instruction Team]({{site.baseurl }}/instructor.html)
+
 * [Workshop Topics]({{ site.baseurl }}/topics.html)
   *   [Day 1]({{ site.baseurl }}/Topics/Day1/day1.html)
     *	[A. Introductions, Expectations & Overview]({{ site.baseurl }}/Topics/Day1/a.html)
@@ -21,17 +23,30 @@ title: River Styles Espresso Workshop
     *	[D. Approaches to Analysis of River Character & Behavior]({{ site.baseurl }}/Topics/Day1/d.html)
     *	[E. Lab - Desktop River Styles Analysis]({{ site.baseurl }}/Topics/Day1/e.html)
     *	[F. Field Trip - River Styles on the Ground]({{ site.baseurl }}/Topics/Day1/f.html)
+
+    ​
   *   [Day 2]({{ site.baseurl }}/Topics/Day2/Day2.html)
-    *	[G. Emerging Technologies for Appraising River Behavior]({{ site.baseurl }}/Topics/Day2/g.html)
+    *  [G. Emerging Technologies for Appraising River Behavior]({{ site.baseurl }}/Topics/Day2/g.html)
+
     *	[H. Mapping & Naming River Styles]({{ site.baseurl }}/Topics/Day2/h.html)
+
     *	[I. Controls on River Styles Distributions]({{ site.baseurl }}/Topics/Day2/i.html)
+
     *	[J. River Condition Assessment & Recovery Potential]({{ site.baseurl }}/Topics/Day2/j.html)
+
+      ​
    *   [Day 3]({{ site.baseurl }}/Topics/Day3/day3.html)
         *   [L. Framing Visions & Target Conditions]({{ site.baseurl }}/Topics/Day3/l.html)
+
 * [Assignments - WATS 6900 Only]({{ site.baseurl }}/assignments.html)
+
 * [Lectures - WATS 6900 Only]({{ site.baseurl }}/lectures.html)
+
 * [River Styles Bibliography](http://www.riverstyles.com/publications.php)
+
 * [© 2011 - 2013  Creative Commons]({{ site.baseurl }}/copyright.html)
+
+
 
 ### Links
 
@@ -59,9 +74,13 @@ Total participation is capped at 25 participants to ensure quality instruction, 
 The Logan ICRRR workshop is organized by the [Intermountain Center for River
 Restoration and Rehabilitation](http://cnr.usu.edu/icrrr/)  at [Utah State University](http://www.usu.edu/) and hosted by the [Department of Watershed Sciences](http://www.cnr.usu.edu/wats/)  and the [Fluvial Habitats Center](http://fluvialhabitatscenter.org/).
 
-![img](http://riverstyles.joewheaton.org/_/rsrc/1316187068271/home/watershed-sciences-dept-PAIRED-02.gif)
+![img]({{site.baseurl}}assets/images/watershed-sciences-dept-PAIRED-02.gif)
 
-[![img](http://riverstyles.joewheaton.org/_/rsrc/1373913408367/home/FHC_FullText_Blue_w150.png)](http://fluvialhabitatscenter.org/)
+
+
+[![img]({{site.baseurl}}assets/images/FHC_FullText_Blue_w150.png)](http://fluvialhabitatscenter.org/)
+
+
 
 
 
