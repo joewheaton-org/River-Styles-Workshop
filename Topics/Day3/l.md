@@ -48,4 +48,4 @@ This topics helps us with the following learning outcomes for the workshop:
 
 ------
 
-← [Previous Topic]({{ site.baseurl }}/Topics/Day2/k)   
+← [Previous Topic]({{ site.baseurl }}/Topics/Day3/k)   
