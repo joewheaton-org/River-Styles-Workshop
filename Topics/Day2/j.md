@@ -1,4 +1,4 @@
-[Workshop Topics]({{ site.baseurl }}/topics)‎ > ‎[Day 2]({{ site.baseurl }}/Topics/Day2/day2)‎ >
+[Workshop Topics]({{ site.baseurl }}/topics)‎ > ‎[Day 2]({{ site.baseurl }}/Topics/Day2/Day-2)‎ >
 
 ### J. River Condition Assessment & Recovery Potential
 
