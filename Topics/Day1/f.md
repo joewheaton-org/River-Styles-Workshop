@@ -1,4 +1,4 @@
-[Workshop Topics]({{ site.baseurl }}/topics)‎ > ‎[Day 1]({{ site.baseurl }}/Topics/Day1/day1)‎ >
+[Workshop Topics]({{ site.baseurl }}/topics)‎ > ‎[Day 1]({{ site.baseurl }}/Topics/Day1/day-1)‎ >
 
 ### F. Field Trip - River Styles on the Ground
 
@@ -26,4 +26,4 @@ The presentation will include a summary of the distinguishing character attribut
 
 
 
-← [Previous Topic]({{ site.baseurl }}/Topics/Day1/e)      [Tomorrow ]({{ site.baseurl }}/Topics/Day2/day2)→
+← [Previous Topic]({{ site.baseurl }}/Topics/Day1/e)      [Tomorrow ]({{ site.baseurl }}/Topics/Day2/Day-2)→
