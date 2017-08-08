@@ -9,9 +9,9 @@ title: River Styles Espresso Workshop
 * [Home]({{ site.baseurl }})
 
 * [About the Workshops (Syllabai)]({{ site.baseurl }}/syllabus.html)
-  *   [Primary Learning Outcomes]({{ site.baseurl }}/background_information.html)
+  *   [Primary Learning Outcomes]({{ site.baseurl }}/learning.html)
   *   [Workshop Schedules]({{ site.baseurl }}/schedule.html)
-  *   [Venue & Logisitcs]({{ site.baseurl }}/venue.html)
+  *   [Venue & Logistics]({{ site.baseurl }}/venue.html)
   *   [Recommended Readings]({{ site.baseurl }}/readings.html)
   *   [Instruction Team]({{site.baseurl }}/instructor.html)
 
@@ -25,6 +25,7 @@ title: River Styles Espresso Workshop
     *	[F. Field Trip - River Styles on the Ground]({{ site.baseurl }}/Topics/Day1/f.html)
 
     ​
+
   *   [Day 2]({{ site.baseurl }}/Topics/Day2/Day-2.html)
     *  [G. Emerging Technologies for Appraising River Behavior]({{ site.baseurl }}/Topics/Day2/g.html)
 
@@ -35,7 +36,10 @@ title: River Styles Espresso Workshop
     *  [J. River Condition Assessment & Recovery Potential]({{ site.baseurl }}/Topics/Day2/j.html)
 
        ​
+
    *   [Day 3]({{ site.baseurl }}/Topics/Day3/Day-3.html)
+
+         *   [K. Field Assessment of River Condition and Recovery Potential]({{ site.baseurl}}/Topics/Day3/k.html)
         *   [L. Framing Visions & Target Conditions]({{ site.baseurl }}/Topics/Day3/l.html)
 
 * [Assignments - WATS 6900 Only]({{ site.baseurl }}/assignments.html)
