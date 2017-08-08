@@ -1,4 +1,4 @@
-[Workshop Topics](http://riverstyles.joewheaton.org/workshop-topics)‎ > ‎
+[Workshop Topics]({{ site.baseurl }}/topics)‎ > ‎
 
 ### Day 1
 
