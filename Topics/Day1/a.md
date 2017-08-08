@@ -1,3 +1,5 @@
+[Workshop Topics]({{ site.baseurl }}/topics)‎ > ‎[Day 1]({{ site.baseurl }}/Topics/Day1/day-1)‎ >
+
 ### A. Introductions, Expectations & Overview
 
 ### Background
