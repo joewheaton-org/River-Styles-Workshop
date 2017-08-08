@@ -19,5 +19,5 @@ Our aim on Day 1 is to bring everyone in the workshop up to speed on stage 1 of 
   ​
 
 
-  [Go to Day 2]({{ site.baseurl }}/Topics/Day2/Day-2)    			    [Go to Day 3]({{ site.baseurl }}/Topics/Day3/Day-3)
+  [Go to Day 2. Stage 2 and 3]({{ site.baseurl }}/Topics/Day2/Day-2)    			    [Go to Day 3. Stage 4]({{ site.baseurl }}/Topics/Day3/Day-3)
 

@@ -17,4 +17,5 @@ In the afternoon we will move into learning approaches to analysis of geomorphic
 
 
 
-[Back to Day 1]({{ site.baseurl }}/Topics/Day1/day-1)  			    [Ahead to Day 3]({{ site.baseurl }}/Topics/Day3/Day-3)
+[Back to Day 1. Stage 1]({{ site.baseurl }}/Topics/Day1/day-1)  			    [Ahead to Day 3. Stage 4]({{ site.baseurl }}/Topics/Day3/Day-3)
+

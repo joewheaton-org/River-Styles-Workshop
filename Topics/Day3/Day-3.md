@@ -12,7 +12,4 @@ Day three will be entirely focused on how managers and scientists can use the in
 
 
 
-[Back to Day 1]({{ site.baseurl }}/Topics/Day1/day-1)  	      [Back to Day 2]({{ site.baseurl }}/Topics/Day2/Day-2)  	
-
-
-
+[Back to Day 1. Stage 1]({{ site.baseurl }}/Topics/Day1/day-1)  	      [Back to Day 2. Stage 2 and 3]({{ site.baseurl }}/Topics/Day2/Day-2)  	
