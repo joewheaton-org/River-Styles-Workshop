@@ -21,10 +21,17 @@ A breached beaver dam on Beaver Creek.
       *  [D. Approaches to Analysis of River Character & Behavior]({{ site.baseurl }}/Topics/Day1/d.html)
       *  [E. Lab - Desktop River Styles Analysis]({{ site.baseurl }}/Topics/Day1/e.html)
       *  [F. Field Trip - River Styles on the Ground]({{ site.baseurl }}/Topics/Day1/f.html)
+
   *   [Day 2]({{ site.baseurl }}/Topics/Day1/day2.html)
       *  [G. Emerging Technologies for Appraising River Behavior]({{ site.baseurl }}/Topics/Day2/g.html)
       *  [H. Mapping & Naming River Styles]({{ site.baseurl }}/Topics/Day2/h.html)
       *  [I. Controls on River Styles Distributions]({{ site.baseurl }}/Topics/Day2/i.html)
       *  [J. River Condition Assessment & Recovery Potential]({{ site.baseurl }}/Topics/Day2/j.html)
+
   *   [Day 3]({{ site.baseurl }}/Topics/Day3/day3.html)
-      *  [L. Framing Visions & Target Conditions]({{ site.baseurl }}/Topics/Day3/l.html)
+
+      *   [K. Field Assessment of River Condition and Recovery Potential]({{ site.baseurl}}/Topics/Day3/k.html)
+
+
+      *   [L. Framing Visions & Target Conditions]({{ site.baseurl }}/Topics/Day3/l.html)
+
