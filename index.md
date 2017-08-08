@@ -6,61 +6,44 @@ title: River Styles Espresso Workshop
 
 *Move soon to navigation bar...
 
-* [Home]({{ site.baseurl }})
-
-* [About the Workshops (Syllabai)]({{ site.baseurl }}/syllabus.html)
-  *   [Primary Learning Outcomes]({{ site.baseurl }}/learning.html)
-  *   [Workshop Schedules]({{ site.baseurl }}/schedule.html)
-  *   [Venue & Logistics]({{ site.baseurl }}/venue.html)
-  *   [Recommended Readings]({{ site.baseurl }}/readings.html)
-  *   [Instruction Team]({{site.baseurl }}/instructor.html)
-
-* [Workshop Topics]({{ site.baseurl }}/topics.html)
-  *   [Day 1]({{ site.baseurl }}/Topics/Day1/day-1.html)
-    *	[A. Introductions, Expectations & Overview]({{ site.baseurl }}/Topics/Day1/a.html)
-    *	[B. Approaches to Analysis of River Character and Behaviour]({{ site.baseurl }}/Topics/Day1/b.html)
-    *	[C. River Diversity]({{ site.baseurl }}/Topics/Day1/c.html)
-    *	[D. Approaches to Analysis of River Character & Behavior]({{ site.baseurl }}/Topics/Day1/d.html)
-    *	[E. Lab - Desktop River Styles Analysis]({{ site.baseurl }}/Topics/Day1/e.html)
-    *	[F. Field Trip - River Styles on the Ground]({{ site.baseurl }}/Topics/Day1/f.html)
-
-    ​
-
-  *   [Day 2]({{ site.baseurl }}/Topics/Day2/Day-2.html)
-    *  [G. Emerging Technologies for Appraising River Behavior]({{ site.baseurl }}/Topics/Day2/g.html)
-
-    *  [H. Mapping & Naming River Styles]({{ site.baseurl }}/Topics/Day2/h.html)
-
-    *  [I. Controls on River Styles Distributions]({{ site.baseurl }}/Topics/Day2/i.html)
-
-    *  [J. River Condition Assessment & Recovery Potential]({{ site.baseurl }}/Topics/Day2/j.html)
-
-       ​
-
-   *   [Day 3]({{ site.baseurl }}/Topics/Day3/Day-3.html)
-
-         *   [K. Field Assessment of River Condition and Recovery Potential]({{ site.baseurl}}/Topics/Day3/k.html)
-        *   [L. Framing Visions & Target Conditions]({{ site.baseurl }}/Topics/Day3/l.html)
-
-* [Assignments - WATS 6900 Only]({{ site.baseurl }}/assignments.html)
-
-* [Lectures - WATS 6900 Only]({{ site.baseurl }}/lectures.html)
-
-* [River Styles Bibliography](http://www.riverstyles.com/publications.php)
-
-* [© 2011 - 2013  Creative Commons]({{ site.baseurl }}/copyright.html)
-
+- [Home]({{ site.baseurl }})
+- [About the Workshops (Syllabai)]({{ site.baseurl }}/syllabus.html)
+  - [Primary Learning Outcomes]({{ site.baseurl }}/learning.html)
+  - [Workshop Schedules]({{ site.baseurl }}/schedule.html)
+  - [Venue & Logistics]({{ site.baseurl }}/venue.html)
+  - [Recommended Readings]({{ site.baseurl }}/readings.html)
+  - [Instruction Team]({{site.baseurl }}/instructor.html)
+- [Workshop Topics]({{ site.baseurl }}/topics.html)
+  - [Day 1]({{ site.baseurl }}/Topics/Day1/day-1.html)
+    -	[A. Introductions, Expectations & Overview]({{ site.baseurl }}/Topics/Day1/a.html)
+    -	[B. Approaches to Analysis of River Character and Behaviour]({{ site.baseurl }}/Topics/Day1/b.html)
+    -	[C. River Diversity]({{ site.baseurl }}/Topics/Day1/c.html)
+    -	[D. Approaches to Analysis of River Character & Behavior]({{ site.baseurl }}/Topics/Day1/d.html)
+    -	[E. Lab - Desktop River Styles Analysis]({{ site.baseurl }}/Topics/Day1/e.html)
+    -	[F. Field Trip - River Styles on the Ground]({{ site.baseurl }}/Topics/Day1/f.html)
+  - [Day 2]({{ site.baseurl }}/Topics/Day2/Day-2.html)
+    - [G. Emerging Technologies for Appraising River Behavior]({{ site.baseurl }}/Topics/Day2/g.html)
+    - [H. Mapping & Naming River Styles]({{ site.baseurl }}/Topics/Day2/h.html)
+    - [I. Controls on River Styles Distributions]({{ site.baseurl }}/Topics/Day2/i.html)
+    - [J. River Condition Assessment & Recovery Potential]({{ site.baseurl }}/Topics/Day2/j.html)
+  - [Day 3]({{ site.baseurl }}/Topics/Day3/Day-3.html)
+    - [K. Field Assessment of River Condition and Recovery Potential]({{ site.baseurl}}/Topics/Day3/k.html)
+    - [L. Framing Visions & Target Conditions]({{ site.baseurl }}/Topics/Day3/l.html)
+- [Assignments - WATS 6900 Only]({{ site.baseurl }}/assignments.html)
+- [Lectures - WATS 6900 Only]({{ site.baseurl }}/lectures.html)
+- [River Styles Bibliography](http://www.riverstyles.com/publications.php)
+- [© 2011 - 2013  Creative Commons]({{ site.baseurl }}/copyright.html)
 
 
 ### Links
 
-* [Riverscapes](http://riverscapes.xyz)
-* [Joe Wheaton](http://joewheaton.org)
-* [River Styles (official pages)](http://www.riverstyles.com/)
-* [Gary Brierley](http://web.env.auckland.ac.nz/people_profiles/brierley_g/)
-* [Kirstie Fryirs](http://envirogeog.mq.edu.au/about/staff/person.htm?id=kfryirs)
-* [ET-AL (Wheaton Lab)](http://etal.joewheaton.org)
-* [Department of Watershed Sciences](http://www.cnr.usu.edu/wats/)
+- [Riverscapes](http://riverscapes.xyz)
+- [Joe Wheaton](http://joewheaton.org)
+- [River Styles (official pages)](http://www.riverstyles.com/)
+- [Gary Brierley](http://web.env.auckland.ac.nz/people_profiles/brierley_g/)
+- [Kirstie Fryirs](http://envirogeog.mq.edu.au/about/staff/person.htm?id=kfryirs)
+- [ET-AL (Wheaton Lab)](http://etal.joewheaton.org)
+- [Department of Watershed Sciences](http://www.cnr.usu.edu/wats/)
 
 #### Enrolled Grad Students & Participants:
 This website is the primary hub of resources for the River Styles USU Workshop. By the end of the workshops, all workshop materials will be posted here for you to refer to after the course.
