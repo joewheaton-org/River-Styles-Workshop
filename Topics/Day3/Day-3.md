@@ -1,10 +1,10 @@
-[Workshop Topics](http://riverstyles.joewheaton.org/workshop-topics)‎ > ‎
+[Workshop Topics]({{ site.baseurl }}/topics)‎ > ‎
 
 ### Day 3
 
 Day three will be entirely focused on how managers and scientists can use the information gleaned from Stages 1-3 to development of geomorphically informed and biophysically realistic management options. 
 
-[Day 3]({{ site.baseurl }}/Topics/Day3/day3.html)
+* [K. Field Assessment of River Condition and Recovery Potential]({{ site.baseurl}}/Topics/Day3/k.html)
 
 - [L. Framing Visions & Target Conditions]({{ site.baseurl }}/Topics/Day3/l.html)
 
@@ -12,5 +12,7 @@ Day three will be entirely focused on how managers and scientists can use the in
 
 
 
-Back to [1. Stage 1](https://sites.google.com/a/joewheaton.org/riverstyles/workshop-topics/stage1)         Back to [2. Stages 2 & 3 ](https://sites.google.com/a/joewheaton.org/riverstyles/workshop-topics/restoration-conservation-regulations-tuesday)
+[Back to Day 1]({{ site.baseurl }}/Topics/Day1/day-1)  	      [Back to Day 2]({{ site.baseurl }}/Topics/Day2/Day-2)  	
+
+
 
