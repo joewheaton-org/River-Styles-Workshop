@@ -1,4 +1,4 @@
-[Workshop Topics]({{ site.baseurl }}/topics)‎ > ‎[Day 3]({{ site.baseurl }}/Topics/Day3/day3)‎ > ‎
+[Workshop Topics]({{ site.baseurl }}/topics)‎ > ‎[Day 3]({{ site.baseurl }}/Topics/Day3/Day-3)‎ > ‎
 
 ### L. Framing Visions & Target Conditions
 
