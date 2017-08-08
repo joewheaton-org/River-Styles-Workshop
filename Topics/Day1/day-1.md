@@ -13,5 +13,5 @@ Our aim on Day 1 is to bring everyone in the workshop up to speed on stage 1 of 
 
 
 
-Go to [2. Stages 2 & 3](https://sites.google.com/a/joewheaton.org/riverstyles/workshop-topics/restoration-conservation-regulations-tuesday)        Go to [3. Stage 4](https://sites.google.com/a/joewheaton.org/riverstyles/workshop-topics/designing-monitoring-restoration-projects-with-beaver-wedneday)
+[Go to Day 2]({{ site.baseurl }}/Topics/Day2/Day-2)        [Go to Day 3]({{ site.baseurl }}/Topics/Day2/Day-3)
 
