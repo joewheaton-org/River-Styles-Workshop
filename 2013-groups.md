@@ -1,4 +1,4 @@
-[Workshop Topics](https://sites.google.com/a/joewheaton.org/riverstyles/workshop-topics)‎ > ‎[Day 1](https://sites.google.com/a/joewheaton.org/riverstyles/workshop-topics/stage1)‎ > ‎[A. Introductions, Expectations & Overview](https://sites.google.com/a/joewheaton.org/riverstyles/workshop-topics/stage1/a-introductions-expectations-overview)‎ > ‎
+[Workshop Topics]({{ site.baseurl }}/topics)‎ > ‎[Day 1]({{ site.baseurl }}/Topics/Day1/day-1)‎‎ > ‎[A. Introductions, Expectations & Overview]({{ site.baseurl }}/Topics/Day1/a)‎ > ‎
 
 ### 2013 Groups
 
