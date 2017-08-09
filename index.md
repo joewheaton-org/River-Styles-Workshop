@@ -2,6 +2,10 @@
 title: River Styles Espresso Workshop
 ---
 
+[![RiverStyles_Course_Banner_W]({{ site.baseurl }}/assets/images/RiverStyles_Course_Banner_W.png)]({{ site.url }})
+
+
+
 ### Navigation
 
 *Move soon to navigation bar...
@@ -18,11 +22,11 @@ title: River Styles Espresso Workshop
 * [Workshop Topics]({{ site.baseurl }}/topics.html)
   *   [Day 1]({{ site.baseurl }}/Topics/Day1/day-1.html)
     *	[A. Introductions, Expectations & Overview]({{ site.baseurl }}/Topics/Day1/a.html)
-    *	[B. Approaches to Analysis of River Character and Behaviour]({{ site.baseurl }}/Topics/Day1/b.html)
-    *	[C. River Diversity]({{ site.baseurl }}/Topics/Day1/c.html)
-    *	[D. Approaches to Analysis of River Character & Behavior]({{ site.baseurl }}/Topics/Day1/d.html)
-    *	[E. Lab - Desktop River Styles Analysis]({{ site.baseurl }}/Topics/Day1/e.html)
-    *	[F. Field Trip - River Styles on the Ground]({{ site.baseurl }}/Topics/Day1/f.html)
+      *[B. Approaches to Analysis of River Character and Behaviour]({{ site.baseurl }}/Topics/Day1/b.html)
+      *[C. River Diversity]({{ site.baseurl }}/Topics/Day1/c.html)
+      *[D. Approaches to Analysis of River Character & Behavior]({{ site.baseurl }}/Topics/Day1/d.html)
+      *[E. Lab - Desktop River Styles Analysis]({{ site.baseurl }}/Topics/Day1/e.html)
+      *[F. Field Trip - River Styles on the Ground]({{ site.baseurl }}/Topics/Day1/f.html)
 
     ​
 
@@ -39,7 +43,7 @@ title: River Styles Espresso Workshop
 
    *   [Day 3]({{ site.baseurl }}/Topics/Day3/Day-3.html)
 
-         *   [K. Field Assessment of River Condition and Recovery Potential]({{ site.baseurl}}/Topics/Day3/k.html)
+        *   [K. Field Assessment of River Condition and Recovery Potential]({{ site.baseurl}}/Topics/Day3/k.html)
         *   [L. Framing Visions & Target Conditions]({{ site.baseurl }}/Topics/Day3/l.html)
 
 * [Assignments - WATS 6900 Only]({{ site.baseurl }}/assignments.html)
