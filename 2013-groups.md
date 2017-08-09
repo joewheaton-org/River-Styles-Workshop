@@ -1,3 +1,5 @@
+[![RiverStyles_Course_Banner_W]({{ site.baseurl }}/assets/images/RiverStyles_Course_Banner_W.png)]({{ site.url }})
+
 [Workshop Topics]({{ site.baseurl }}/topics)‎ > ‎[Day 1]({{ site.baseurl }}/Topics/Day1/day-1)‎‎ > ‎[A. Introductions, Expectations & Overview]({{ site.baseurl }}/Topics/Day1/a)‎ > ‎
 
 ### 2013 Groups
