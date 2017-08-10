@@ -1,3 +1,7 @@
+[![RiverStyles_Course_Banner_W]({{ site.baseurl }}/assets/images/RiverStyles_Course_Banner_W.png)]({{ site.url }})
+
+
+
 ### 2013 Fall Semester - Graduate Course Schedule
 
 Below is a tentative schedule. Outside of the intensive 3 Day Worskhop from November 8 - 10, which is mandatory, we will meet on four occasions prior to the workshop and one following:

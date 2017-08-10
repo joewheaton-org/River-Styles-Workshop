@@ -1,3 +1,7 @@
+[![RiverStyles_Course_Banner_W]({{ site.baseurl }}/assets/images/RiverStyles_Course_Banner_W.png)]({{ site.url }})
+
+
+
 ### Reading Ahead of Course
 
 *  [![img](images/PDF_Icon.png)](http://etal.usu.edu/Workshops/RiverStyles/Resources/Progress%20in%20Physical%20Geography-2013-Brierley-0309133313490007.pdf) Brierley, G., K. Fryirs, C. Cullum, M. Tadaki, H. Q. Huang, and B. Blue. 2013. [Reading the landscape: Integrating the theory and practice of geomorphology to develop place-based understandings of river systems](http://etal.usu.edu/Workshops/RiverStyles/Resources/Progress%20in%20Physical%20Geography-2013-Brierley-0309133313490007.pdf). Progress in Physical Geography. DOI: [10.1177/0309133313490007](http://dx.doi.org/10.1177/0309133313490007).

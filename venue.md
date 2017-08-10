@@ -1,4 +1,7 @@
-----
+[![RiverStyles_Course_Banner_W]({{ site.baseurl }}/assets/images/RiverStyles_Course_Banner_W.png)]({{ site.url }})
+
+
+
 ## 2013 Logan, Utah
 
 The venue information below is for the primary Logan Workshop (November 8-10, 2013). 

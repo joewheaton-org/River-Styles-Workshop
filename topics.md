@@ -1,3 +1,7 @@
+[![RiverStyles_Course_Banner_W]({{ site.baseurl }}/assets/images/RiverStyles_Course_Banner_W.png)]({{ site.url }})
+
+
+
 ### Workshop Topics
 
 All workshop topics are  left here as a resource for you to refer back to or dig into for more information as and when you need it.

@@ -1,3 +1,7 @@
+[![RiverStyles_Course_Banner_W]({{ site.baseurl }}/assets/images/RiverStyles_Course_Banner_W.png)]({{ site.url }})
+
+
+
 ##Registration
 
 The workshop is targeted at USU Graduate students primarily and researchers and professionals secondarily. The primary workshop is a 3-day event held  in Logan, Utah (November 8-10 for 2013). Registration is capped at 25 participants for the workshop.
