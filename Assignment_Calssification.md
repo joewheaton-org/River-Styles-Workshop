@@ -1,3 +1,7 @@
+[![RiverStyles_Course_Banner_W]({{ site.baseurl }}/assets/images/RiverStyles_Course_Banner_W.png)]({{ site.url }})
+
+
+
 ## 2. River Classification Literature Review
 
 Dig into literature on classification or rivers and streams at reach scale. I. The purpose of this assignment is for you to take a critical look at River Styles and other classification schemes (e.g. Rosgen, as well as Montgomery & Buffington and others) and form your own opinions about the relative strengths and weaknesses.
