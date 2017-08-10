@@ -1,3 +1,7 @@
+[![RiverStyles_Course_Banner_W]({{ site.baseurl }}/assets/images/RiverStyles_Course_Banner_W.png)]({{ site.url }})
+
+
+
 # 1. River Styles Project Proposal
 
 ## Homework

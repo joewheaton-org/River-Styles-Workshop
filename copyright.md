@@ -1,3 +1,5 @@
+[![RiverStyles_Course_Banner_W]({{ site.baseurl }}/assets/images/RiverStyles_Course_Banner_W.png)]({{ site.url }})
+
 ### © 2011 - 2013 | CC
 
 [![Creative Commons License](http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US)River Styles Workshop by [Wheaton, Brierley et al.](http://riverstyles.joewheaton.org/) is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US).

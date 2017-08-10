@@ -1,5 +1,8 @@
-* [Gary Brierley](http://web.env.auckland.ac.nz/people_profiles/brierley_g/) (University of Auckland) - Lead Instructor / Fluvial Geomorphologist
+[![RiverStyles_Course_Banner_W]({{ site.baseurl }}/assets/images/RiverStyles_Course_Banner_W.png)]({{ site.url }})
 
+### 2013 - Instruction Team
+
+* [Gary Brierley](http://web.env.auckland.ac.nz/people_profiles/brierley_g/) (University of Auckland) - Lead Instructor / Fluvial Geomorphologist
 * [Joe Wheaton](http://www.joewheaton.org/Home/) ([Utah State University](http://usu.edu/))- Lead  USU Instructor / Fluvial Geomorphologist
 * Nick Bouwes (Utah State University) - USU Instructor / Fisheries Ecologist
 * Gary O'Brien (Utah State University) - USU Instructor / Geomorphologist & Geologist
