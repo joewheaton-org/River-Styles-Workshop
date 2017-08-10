@@ -1,3 +1,7 @@
+[![RiverStyles_Course_Banner_W]({{ site.baseurl }}/assets/images/RiverStyles_Course_Banner_W.png)]({{ site.baseurl }})
+
+
+
 [Workshop Topics]({{ site.baseurl }}/topics)‎ > ‎[Day 3]({{ site.baseurl }}/Topics/Day3/Day-3)‎ > ‎
 
 ### L. Framing Visions & Target Conditions

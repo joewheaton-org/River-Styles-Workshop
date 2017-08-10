@@ -1,3 +1,7 @@
+[![RiverStyles_Course_Banner_W]({{ site.baseurl }}/assets/images/RiverStyles_Course_Banner_W.png)]({{ site.baseurl }})
+
+
+
 [Workshop Topics]({{ site.baseurl }}/topics)‎ > ‎[Day 2]({{ site.baseurl }}/Topics/Day2/Day-2)‎ >
 
 ### J. River Condition Assessment & Recovery Potential
