@@ -1,4 +1,9 @@
+[![RiverStyles_Course_Banner_W]({{ site.baseurl }}/assets/images/RiverStyles_Course_Banner_W.png)]({{ site.url }})
+
+
+
 ## Assignments - WATS 6900 Only
+
 * [River Styles Project Proposal]({{ site.baseurl }}/Assignment_Proposal.html)
 * [River Classification Literature Review]({{ site.baseurl }}/Assignment_Classification.html)
 
